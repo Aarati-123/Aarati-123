@@ -1,0 +1,8 @@
+👋 Hi, I’m @Aarati-123
+
+KU '26
+
+<!---
+Aarati-123/Aarati-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
